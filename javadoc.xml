@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="." destdir="doc" doctitle="WFW" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="dialog,wfw" source="1.6" sourcefiles="src/AppMenuItem.java,src/Main.java,src/IAppCommand.java,src/AppCommand.java,src/CmdQuitter.java,src/MainWindow.java,src/CmdConnection.java,src/CmdGetFile.java,src/AppParam.java,src/AppButton.java,src/SiteInfosPanel.java" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
